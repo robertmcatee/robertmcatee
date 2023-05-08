@@ -3,4 +3,4 @@ I am a software engineering leader with over 10 years of experience in the banki
 
 I am passionate about using technology to solve real-world problems. I am particularly interested in literate programming, declarative configuration, and container orchestration. I have a proven track record of success in leading and delivering complex software projects.
 
-Outside of work, I enjoy spending time outdoors with my family and friends. Other interests include music, astronomy, and travel.
+Apart from work, I enjoy spending time outdoors with my family and friends. Other interests include music, astronomy, and travel.
