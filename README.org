@@ -1,2 +1,6 @@
-* About
-Executive IT Manager with over 12 years of experience in software engineering and cloud native technologies. I am currently the Chief for the Hosting Services Division at the Administrative Office of the U.S. Courts, where I lead a team that provides a multi-cloud, multi-vendor ecosystem of cloud-based services and solutions to the federal judiciary. I am also the founder of the Federal Courts Software Factory, a centralized development and deployment environment that uses automation and standardized processes to develop software applications.
+* How I do my computing
+- 📱 Android on a Google Pixel 5a
+- 💻 ChromeOS Flex on a Lenovo T440
+- 🖥️ Fedora Silverblue on a Lenovo m93p w/ Acer X233H 23.3" LCD Monitor
+- ⌨️ Velocifire TKL02 87 Key Mechanical Keyboard
+- 🖲️ Logitech Trackman Marble
