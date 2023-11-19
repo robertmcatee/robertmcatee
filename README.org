@@ -1,4 +1,4 @@
-* How I do my computing
+* 👨‍💻 How I do my computing
 - 📱 Android on a Google Pixel 5a
 - 💻 ChromeOS Flex on a Lenovo T440
 - 🖥️ Fedora Silverblue on a Lenovo m93p w/ Acer X233H 23.3" LCD Monitor
