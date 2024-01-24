@@ -1,6 +1,9 @@
 * 👨‍💻 How I do my computing
+- 🧮 Texas Instruments BA II Plus Professional Financial Calculator
+- 📻 TYT MD-UV390 Digital Dual Band Radio
 - 📱 Android on a Google Pixel 5a
-- 💻 ChromeOS Flex on a Lenovo T440
-- 🖥️ Fedora Silverblue on a Lenovo m93p w/ Acer X233H 23.3" LCD Monitor
-- ⌨️ Velocifire TKL02 87 Key Mechanical Keyboard
-- 🖲️ Logitech Trackman Marble
+- 💻 Arch Linux on a Lenovo T440
+- 🖥️ Ubuntu on a Lenovo m93p
+  - 📺 Acer X233H 23.3" LCD Monitor
+  - ⌨️ Velocifire TKL02 87 Key Mechanical Keyboard
+  - 🖲️ Logitech Trackman Marble
